@@ -1,0 +1,20 @@
+alias b='cd ~/bin'
+alias c='cd ..'
+alias e='exit'
+alias m='clear ; more'
+alias p='cd ~/proj'
+alias r='fc -e -'
+alias t='cd ~/tmp'
+
+alias ll='ls -alF'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias cls='clear ; la'
+alias cls='clear ; ls'
+alias cll='clear ; ll'
+
+alias md='mkdir'
+alias rd='rmdir'
+alias cp='cp -v'
+alias mv='mv -v'
